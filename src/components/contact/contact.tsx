@@ -1,6 +1,5 @@
 import React, {useRef} from 'react';
 
-import './contact.css';
 import {MdOutlineEmail} from 'react-icons/md';
 import {AiOutlineLinkedin} from 'react-icons/ai';
 import {BsWhatsapp} from 'react-icons/bs';
