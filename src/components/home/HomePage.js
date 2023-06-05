@@ -12,7 +12,8 @@ export const HomePage = ()=>{
         
       <div className="App">
       <header className="App-header">
-        <img src={me} className="" alt="logo" />
+        <h1>Hi, I am Nyenty Paul</h1>
+        <img src={me} className="about_me_image" alt="logo" />
         <CTA/>
          <HomeSocial/>
         </header>               

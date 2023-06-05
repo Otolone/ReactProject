@@ -19,6 +19,19 @@ export const NavBar = ()=>{
               <CustomLink to="/about">
               About Page
               </CustomLink>
+              <CustomLink to="/contact">
+              Contact US
+              </CustomLink>
+              <CustomLink to="/experience">
+               Our experience
+              </CustomLink>
+              <CustomLink to="/portfolio">
+              Portfolio
+              </CustomLink>
+              <CustomLink to="/testimonial">
+              Testimonial
+              </CustomLink>
+
               
               </ul>
 
